@@ -1,0 +1,1 @@
+This was done in the 2nd course of the Python For Everybody specialization on Coursera.com. Although it was previously done in the 1st course, this "Practice Peer-graded Assignment" showed up again in course 2.
